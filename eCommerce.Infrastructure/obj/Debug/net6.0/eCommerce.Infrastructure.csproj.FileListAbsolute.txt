@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\bin\Debug\net6.0\eCommerce.Infrastructure.deps.json
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\bin\Debug\net6.0\eCommerce.Infrastructure.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\bin\Debug\net6.0\eCommerce.Infrastructure.pdb
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\refint\eCommerce.Infrastructure.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.pdb
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\ref\eCommerce.Infrastructure.dll

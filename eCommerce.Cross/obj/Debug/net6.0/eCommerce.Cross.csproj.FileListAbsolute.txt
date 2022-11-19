@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\bin\Debug\net6.0\eCommerce.Cross.deps.json
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\bin\Debug\net6.0\eCommerce.Cross.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\bin\Debug\net6.0\eCommerce.Cross.pdb
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\eCommerce.Cross.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\eCommerce.Cross.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\eCommerce.Cross.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\eCommerce.Cross.AssemblyInfo.cs
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\eCommerce.Cross.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\eCommerce.Cross.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\refint\eCommerce.Cross.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\eCommerce.Cross.pdb
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Cross\obj\Debug\net6.0\ref\eCommerce.Cross.dll
