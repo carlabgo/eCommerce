@@ -199,10 +199,6 @@ namespace eCommerce.DataModel.Migrations
                         .HasColumnType("decimal(18,2)")
                         .HasColumnName("price");
 
-                    b.Property<int>("Quantity")
-                        .HasColumnType("int")
-                        .HasColumnName("quantity");
-
                     b.HasKey("Id");
 
                     b.HasIndex("CategoryId");

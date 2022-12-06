@@ -22,8 +22,7 @@ namespace eCommerce.DataModel.Models
         public Category Category { get; set; }
         [Column("is_deleted")]
         public bool IsDeleted { get; set; }
-        [Column("quantity")]
-        public int Quantity { get; set; }
+
         [Column("cost")]
         public decimal Cost { get; set; }
         [Column("price")]

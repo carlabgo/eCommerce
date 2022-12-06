@@ -10,3 +10,6 @@ C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debu
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\refint\eCommerce.Infrastructure.dll
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.pdb
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\ref\eCommerce.Infrastructure.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\bin\Debug\net6.0\eCommerce.DataModel.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\bin\Debug\net6.0\eCommerce.DataModel.pdb
+C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.Infrastructure\obj\Debug\net6.0\eCommerce.Infrastructure.csproj.CopyComplete
