@@ -14,7 +14,7 @@ namespace eCommerce.DataModel.Models
         [Column("costumer_id")]
         public long CostumerId { get; set; }
         [ForeignKey(nameof(CostumerId))]
-        public Costumer Costumer { get; set; }
+        public Customer Costumer { get; set; }
         [Required]
         [Column("invoice_number")]
         public long InvoiceNumber { get; set; }

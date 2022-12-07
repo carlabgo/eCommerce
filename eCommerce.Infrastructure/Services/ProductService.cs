@@ -58,6 +58,28 @@ namespace eCommerce.Infrastructure.Services
             return new OperationResponse<long>(product.Entity.Id);
         }
 
+        public async Task<OperationResponse<long>> Update(DtoEditProduct updaterequest)
+        {
+
+            Product product = await _context
+                                    .Products
+                                    .FirstOrDefaultAsync(p => p.Id == updaterequest.Id && !p.IsDeleted);
+
+            if (product == null) return new OperationResponse<long>(updaterequest.Id, false);
+
+            product.Id = updaterequest.Id;
+            product.IsDeleted = updaterequest.IsDeleted;
+            product.Cost = updaterequest.Cost;
+            product.Description = updaterequest.Description;
+            product.Price = updaterequest.Price;
+            product.CategoryId = updaterequest.CategoryId;
+            product.Name = updaterequest.Name;
+
+            _context.Products.Update(product);
+            await _context.SaveChangesAsync();
+
+            return new OperationResponse<long>(updaterequest.Id);
+        }
         public async Task<OperationResponse<DtoPagination<DtoListProduct>>> ListProducts(string filter, int pageSize, int page, CancellationToken ct = default)
         {
             var query = _context

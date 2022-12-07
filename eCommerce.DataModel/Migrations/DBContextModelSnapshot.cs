@@ -41,7 +41,7 @@ namespace eCommerce.DataModel.Migrations
                     b.ToTable("category");
                 });
 
-            modelBuilder.Entity("eCommerce.DataModel.Models.Costumer", b =>
+            modelBuilder.Entity("eCommerce.DataModel.Models.Customer", b =>
                 {
                     b.Property<long>("Id")
                         .ValueGeneratedOnAdd()
@@ -50,10 +50,10 @@ namespace eCommerce.DataModel.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
 
-                    b.Property<string>("Adress")
+                    b.Property<string>("Address")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)")
-                        .HasColumnName("Adress");
+                        .HasColumnName("address");
 
                     b.Property<string>("DNI")
                         .IsRequired()
@@ -87,7 +87,7 @@ namespace eCommerce.DataModel.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("costumer");
+                    b.ToTable("customer");
                 });
 
             modelBuilder.Entity("eCommerce.DataModel.Models.Invoice", b =>
@@ -271,7 +271,7 @@ namespace eCommerce.DataModel.Migrations
 
             modelBuilder.Entity("eCommerce.DataModel.Models.Invoice", b =>
                 {
-                    b.HasOne("eCommerce.DataModel.Models.Costumer", "Costumer")
+                    b.HasOne("eCommerce.DataModel.Models.Customer", "Costumer")
                         .WithMany()
                         .HasForeignKey("CostumerId")
                         .OnDelete(DeleteBehavior.Cascade)

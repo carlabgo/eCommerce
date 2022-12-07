@@ -28,6 +28,12 @@ namespace eCommerce.API.Controllers
         {
             return Return(await _service.Add(request).ConfigureAwait(false));
         }
+
+        [HttpPut]
+        public async Task<IActionResult> Put([FromBody] DtoEditProduct request)
+        {
+            return Return(await _service.Update(request).ConfigureAwait(false));
+        }
         [HttpPost]
         [Route("list")]
         public async Task<IActionResult> List(RequestPaginatedData request)

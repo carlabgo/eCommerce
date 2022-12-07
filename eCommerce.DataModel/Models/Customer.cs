@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace eCommerce.DataModel.Models
 {
-    [Table("costumer")]
-    public class Costumer : BaseModel
+    [Table("customer")]
+    public class Customer : BaseModel
     {
         [Required]
         [Column("first_name")]
@@ -24,8 +24,8 @@ namespace eCommerce.DataModel.Models
         [Column("email")]
         public string Email { get; set; }
         [Required]
-        [Column("Adress")]
-        public string Adress { get; set; }
+        [Column("address")]
+        public string Address { get; set; }
         [Column("zip_code")]
         public string ZipCode { get; set; }
         [Required]

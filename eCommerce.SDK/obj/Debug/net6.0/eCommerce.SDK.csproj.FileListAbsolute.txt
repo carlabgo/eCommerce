@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.SDK\obj\Debug\net6.0\eC
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.SDK\obj\Debug\net6.0\refint\eCommerce.SDK.dll
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.SDK\obj\Debug\net6.0\eCommerce.SDK.pdb
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.SDK\obj\Debug\net6.0\ref\eCommerce.SDK.dll
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\bin\Debug\net6.0\eCommerce.SDK.deps.json
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\bin\Debug\net6.0\eCommerce.SDK.dll
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\bin\Debug\net6.0\eCommerce.SDK.pdb
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\eCommerce.SDK.csproj.AssemblyReference.cache
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\eCommerce.SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\eCommerce.SDK.AssemblyInfoInputs.cache
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\eCommerce.SDK.AssemblyInfo.cs
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\eCommerce.SDK.csproj.CoreCompileInputs.cache
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\eCommerce.SDK.dll
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\refint\eCommerce.SDK.dll
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\eCommerce.SDK.pdb
+C:\Users\kiltex\Documents\eCom\eCommerce\eCommerce.SDK\obj\Debug\net6.0\ref\eCommerce.SDK.dll
