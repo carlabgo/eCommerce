@@ -6951,11 +6951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.API\\eCommerce.API.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.API\\eCommerce.API.csproj",
       "projectName": "eCommerce.API",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.API\\eCommerce.API.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.API\\eCommerce.API.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.API\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6972,11 +6972,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj"
+            "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj"
             },
-            "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
+            "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
             }
           }
         }

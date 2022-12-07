@@ -12,3 +12,17 @@ C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.DataModel\obj\Debug\net
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.pdb
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.genruntimeconfig.cache
 C:\Users\Admin\Desktop\eCommerce\eCommerce.API\eCommerce.DataModel\obj\Debug\net6.0\ref\eCommerce.DataModel.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\bin\Debug\net6.0\eCommerce.DataModel.deps.json
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\bin\Debug\net6.0\eCommerce.DataModel.runtimeconfig.json
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\bin\Debug\net6.0\eCommerce.DataModel.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\bin\Debug\net6.0\eCommerce.DataModel.pdb
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\refint\eCommerce.DataModel.dll
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.pdb
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\eCommerce.DataModel.genruntimeconfig.cache
+C:\Users\Admin\Desktop\eCommerce\eCommerce\eCommerce.DataModel\obj\Debug\net6.0\ref\eCommerce.DataModel.dll

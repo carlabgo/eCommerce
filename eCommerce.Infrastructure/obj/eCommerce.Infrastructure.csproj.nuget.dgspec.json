@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj": {
+    "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
         "projectName": "eCommerce.DataModel",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
         "projectName": "eCommerce.Infrastructure",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj"
+              "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj"
               }
             }
           }

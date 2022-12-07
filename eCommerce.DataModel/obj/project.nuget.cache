@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BgNyKx7pkZUAYvT+R6VBnQdBQAfIKSUTUxg5GdUBkIY4lLfnD19RspYJOdeeV3NmX7JeEJiqth7VESCGKUnuLw==",
+  "dgSpecHash": "tFgAWARcV3u4bQEZpwvEA+ZtEIr2Tv/RndpRk8AYddoa7FxkHjp9ofe0sx378zNFYl+Lo7zmS1CA4h4YX8bd4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

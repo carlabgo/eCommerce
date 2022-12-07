@@ -3514,11 +3514,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
       "projectName": "eCommerce.DataModel",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\eCommerce.DataModel.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce.API\\eCommerce.DataModel\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\eCommerce\\eCommerce\\eCommerce.DataModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

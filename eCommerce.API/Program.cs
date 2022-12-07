@@ -17,6 +17,7 @@ builder.Services.AddDbContext<DBContext>(options =>
 });
 
 builder.Services.AddScoped<CategoryService>();
+builder.Services.AddScoped<ProductService>();
 
 var app = builder.Build();
 using (var scope = app.Services.CreateScope())
