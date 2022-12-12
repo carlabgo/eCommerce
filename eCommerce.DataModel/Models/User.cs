@@ -17,5 +17,10 @@ namespace eCommerce.DataModel.Models
         [Required]
         [Column("password")]
         public string Password { get; set; }
+        [Required]
+        [Column("role_id")]
+        public long RoleId { get; set; }
+        [ForeignKey(nameof(RoleId))]
+        public Role Role { get; set; }
     }
 }

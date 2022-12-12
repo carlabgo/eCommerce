@@ -249,24 +249,15 @@ namespace eCommerce.DataModel.Migrations
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("password");
 
-                    b.HasKey("Id");
-
-                    b.ToTable("user");
-
-                    b.UseTptMappingStrategy();
-                });
-
-            modelBuilder.Entity("eCommerce.DataModel.Models.InternalUser", b =>
-                {
-                    b.HasBaseType("eCommerce.DataModel.Models.User");
-
                     b.Property<long>("RoleId")
                         .HasColumnType("bigint")
                         .HasColumnName("role_id");
 
+                    b.HasKey("Id");
+
                     b.HasIndex("RoleId");
 
-                    b.ToTable("internal_user");
+                    b.ToTable("user");
                 });
 
             modelBuilder.Entity("eCommerce.DataModel.Models.Invoice", b =>
@@ -310,14 +301,8 @@ namespace eCommerce.DataModel.Migrations
                     b.Navigation("Category");
                 });
 
-            modelBuilder.Entity("eCommerce.DataModel.Models.InternalUser", b =>
+            modelBuilder.Entity("eCommerce.DataModel.Models.User", b =>
                 {
-                    b.HasOne("eCommerce.DataModel.Models.User", null)
-                        .WithOne()
-                        .HasForeignKey("eCommerce.DataModel.Models.InternalUser", "Id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("eCommerce.DataModel.Models.Role", "Role")
                         .WithMany()
                         .HasForeignKey("RoleId")
